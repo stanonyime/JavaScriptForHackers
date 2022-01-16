@@ -12,14 +12,15 @@ Variables in javascript are case sensitive. That means that the following are di
 let name = 'Stan Onyime';
 let Name = 'Stan Onyime';
 ```
-## Naming COnventions
+## Naming Conventions
 Names should be descriptive. The convention in the javascript community is to use camelCase for variable names and all uppercase for constants. Names should not start with numbers and should not be any of the reserved key words. Note that unlike in other languages like Golang, javascript interpreters do not enforce the camelCase rule
-## Initialization
-Variables declared with *var* are initialized to undefined if declared without initialization
-## Assignment
-## Reassignment
-## Scoping
-	
-## Hoisting
 
-## Temporal Dead Zones
+## Initialization
+Variables declared with *var* are initialized to *undefined* if declared without initialization. *const* and *let* are not initialized
+
+## Assignment and Reassignment
+Both *var* and *let* can be reassigned. *const* cannot be reassigned
+
+## Scoping
+*var* is function or window-scoped. *const* and *let* are lexically scoped
+	
