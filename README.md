@@ -1,18 +1,38 @@
 ## JavaScript for Hackers
-
+This book is aimed at experienced programmers who want to learn JavaScript through problem-solving
 ## Table of Contents
 
-- [Chapter 1: Variables](./1-Variables.md)
-  - Declaration
-  - Case Sensitivity
-  - Naming Conventions
-  - Initialization
-- Chapter 1: Numbers
-- Chapter 2: Strings
-- Chapter 3: Arrays
-- Chapter 4: Objects
-- Chapter 5: Functions
-- Chapter 6: Maps
-- Chapter 7: Sets 
-- Chapter 8: Date and Time
-- Chapter 9: Mathematical Functions
+- Chapter 1: Language Syntax and Features
+  - [Variables](./chapter-1/1-Variables.md)
+  - Data Types
+  - Operators
+  - Functions
+  - Loops and Iteration
+  - Classes and Prototypes
+  - Design Patterns and Coding Best Practices
+
+- Chapter 2: Data Structures
+  - Arrays
+  - Hash Maps
+  - Linked Lists
+  - Stacks
+  - Heaps
+  - Trees
+  - Tries
+  - Graphs
+- Chapter 3: Sorting
+  - Meaning and Types
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quicksort
+  - Counting Sort
+  - Radix Sort
+  - Bucket Sort
+  - Heap Sort
+  - Shell Sort
+
+- Chapter 4: Search and Pattern Matching
+- Chapter 5: Sets and Subsets
+- Chapter 6: Strings and Substrings
