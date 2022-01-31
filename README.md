@@ -4,7 +4,7 @@ This book is aimed at experienced programmers who want to learn JavaScript throu
 
 - Chapter 1: Language Syntax and Features
   - [Variables](./chapter-1/1-Variables.md)
-  - Data Types
+  - [Data Types](./chapter-1/2-DataTypes.md)
   - Operators
   - Functions
   - Loops and Iteration
